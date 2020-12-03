@@ -5,9 +5,9 @@ We have collected 2207 poems with 11 different categories. We have collected dif
 
 Corpus-Description:
 
-Total Bangla poems: 2207
-Total Categories: 11
-Categories are:
+Total Bangla poems: 2207     
+Total Categories: 11            
+Categories are:                        
 •	policy (নীতি কবিতা) -67
 •	religious (ধর্মীয় কবিতা) – 62
 •	war (যুদ্ধের কবিতা) – 32
