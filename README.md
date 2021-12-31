@@ -21,7 +21,7 @@ Categories are:
 •	patriotic (দেশাত্মবোধক কবিতা) - 76                    
 
 Drive Link:    
-https://drive.google.com/file/d/1MKSGKPbhLKszFGvF6zKWi6HfUccSFrC_/view?usp=sharing
+https://drive.google.com/file/d/1Rb3u3QpJqHbXYsb5NWgJn3oErQS4fQhp/view?usp=sharing
 
 Bangla poem dataset processing:      
 In this portion, we used regular expression to remove double and extra whitespaces, dash between words, sentences and made every poem into a long sentence of single whitespaces.
