@@ -26,8 +26,6 @@ Poem Categories are:
 
 Writer Categories are:
 
-Writer’s Name	Writer’s Label	Counts
-Writer’s Name	Writer’s Label	Counts
 রবীন্দ্রনাথ ঠাকুর-251
 মহাদেব সাহা-244
 নীরেন্দ্রনাথ চক্রবর্তী-186
