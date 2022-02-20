@@ -71,7 +71,7 @@ Writer Categories are:
 
 
 
-Drive Link:    
+Drive Link of the Poem dataset:    
 https://drive.google.com/file/d/1vOJ13LycaCOaiyB2cZtoSvZVSUCR-0Fw/view?usp=sharing
 
 Bangla poem dataset processing:      
