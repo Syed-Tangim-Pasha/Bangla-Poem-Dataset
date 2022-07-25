@@ -72,7 +72,7 @@ Writer Categories are:
 
 
 Drive Link of the Poem dataset:    
-https://drive.google.com/file/d/1vOJ13LycaCOaiyB2cZtoSvZVSUCR-0Fw/view?usp=sharing
+https://drive.google.com/file/d/1Ay27ZE3PGS6WcmnMqM211gRVRZuT0bGs/view?usp=sharing
 
 Bangla poem dataset processing:      
 In this portion, we used regular expression to remove double and extra whitespaces, dash between words, sentences and made every poem into a long sentence of single whitespaces.
