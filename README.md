@@ -1,7 +1,7 @@
 # Bangla_Poem_Dataset
 
 Bangla-Poem-Classification-Dataset:  
-We have collected 2207 poems with 11 different categories of the poem and these poems are belongs to 41 different writers writings. We have collected different categories of poems from this website https://banglarkobita.com/. After collecting poems, we cleaned our dataset and made our dataset for our research on Bangla poem classification.
+We have collected 2207 poems with 11 different categories of the poem and these poems are belongs to 41 different writers writings. We have collected different categories of poems from this website https://banglarkobita.com/ through web scrapping. After collecting poems, we cleaned our dataset and made our dataset for our research for Bangla poem classification.
 
 
 Corpus-Description:
